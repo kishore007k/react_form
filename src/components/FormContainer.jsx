@@ -9,7 +9,8 @@ class FormContainer extends Component {
 			lastName: '',
 			Email: '',
 			gender: '',
-			age: ''
+			age: '',
+			skills: ''
 		};
 		this.handleChange = this.handleChange.bind(this);
 	}
